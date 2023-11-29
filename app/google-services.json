@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "680208158936",
+    "project_id": "carros-7c69a",
+    "storage_bucket": "carros-7c69a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680208158936:android:deac253bb63594b84647ad",
+        "android_client_info": {
+          "package_name": "com.modelos.carros"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7Lx-03z1YX9nvzEPREeDZOgNf7pW7zoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

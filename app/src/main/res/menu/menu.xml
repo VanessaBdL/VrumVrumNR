@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_marca"
+        android:title="@string/marca" />
+    <item
+        android:id="@+id/menu_modelo"
+        android:title="@string/modelo" />
+    <item
+        android:id="@+id/menu_carro"
+        android:title="@string/carro" />
+</menu>
